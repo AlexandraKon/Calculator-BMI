@@ -3,10 +3,10 @@
 *Body mass index (BMI) Calculator* is a measure of body fat based on height and weight that applies to adult men and women
 
 
-### Link to access:
+## Link to access
 https://alexandra-bmicalculator.netlify.app/
 
-### Technologies used:
+## Technologies used
 
 HTML, CSS and JavaScript
 
